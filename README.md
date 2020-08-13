@@ -1,6 +1,6 @@
 # MOAI
 
-**MOAI** is a tip calculator application for iOS.
+**MOAI** is a mobile application that personalizes the contact management and networking experience through contact reminders, connection prioritization and grouping, and communication pointers for iOS.
 
 Submitted by: **Desu Imudia**
 
@@ -18,8 +18,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-This app demo was created using Figma. 
-Describe any challenges encountered while building the app.
+This app demo was created using Figma.
 
 ## License
 
